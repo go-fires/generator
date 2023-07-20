@@ -3,7 +3,7 @@ module github.com/go-fires/generator
 go 1.20
 
 require (
-	github.com/go-fires/support v0.0.0
+	github.com/go-fires/support v0.4.2
 	github.com/satori/go.uuid v1.2.0
 )
 
